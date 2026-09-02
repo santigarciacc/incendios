@@ -1,0 +1,8 @@
+Fuente observacional recomendada:
+Fire danger indices historical data from the Copernicus Emergency Management Service
+(dataset cems-fire-historical-v1; DOI 10.24381/cds.0e89c522).
+
+Descargar FWI diario, version 4.1, tipo consolidated, 2005-2023. Agregar con
+mascara de Espana/CCAA y ponderacion por cos(lat). Indicador principal
+pre-registrado: dias equivalentes con FWI >= 38 entre mayo y octubre. No usar
+las proyecciones RCP para completar el pasado.

@@ -1,0 +1,5 @@
+target_variable,predictors,R2_reconstructed_from_other_exogenous
+prevention_lag2,heatwave_days; heatwave_events; total_investment_lag2,0.7180394312356762
+total_investment_lag2,heatwave_days; heatwave_events; prevention_lag2,0.6583986565876612
+heatwave_events,heatwave_days; prevention_lag2; total_investment_lag2,0.6195621267548129
+heatwave_days,heatwave_events; prevention_lag2; total_investment_lag2,0.5460895119788899
