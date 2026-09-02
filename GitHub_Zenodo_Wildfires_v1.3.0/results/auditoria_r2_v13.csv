@@ -1,6 +1,0 @@
-model,validation_window,R2_pred,R2_fit_log,R2_fit_log_adjusted,Skill_MSE_vs_ARIMA100,interpretation
-calor+prevención t-1,2016-2023,0.4909397751183796,0.1528156179444303,0.039857700337021,0.5974674132722431,R2_pred is out-of-sample; negative means SSE exceeds validation-window mean benchmark
-calor+prevención t-2,2016-2023,-0.9114349126406354,0.4442368238288056,0.3648420843757778,-0.5114416765244287,R2_pred is out-of-sample; negative means SSE exceeds validation-window mean benchmark
-calor+prevención t-3,2016-2023,0.45608585212661,0.4175898811617998,0.3279883244174614,0.5699071382915184,R2_pred is out-of-sample; negative means SSE exceeds validation-window mean benchmark
-calor solo,2016-2023,0.49709707520022,0.1742006587805921,0.1256242269441563,0.6023362162312224,R2_pred is out-of-sample; negative means SSE exceeds validation-window mean benchmark
-"ARIMA(1,0,0)",2016-2023,-0.2646435137583305,,,0.0,R2_pred is out-of-sample; negative means SSE exceeds validation-window mean benchmark

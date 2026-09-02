@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-reproduced/
-.DS_Store
-*.aux
-*.log
-*.out
