@@ -1,0 +1,17 @@
+WINDOWS / POWERSHELL — upload this repository
+
+1. Open PowerShell in the folder where you want the repository.
+2. Run:
+
+   git clone https://github.com/santigarciacc/incendios.git
+   cd incendios
+
+3. Copy ALL contents of the folder GitHub_Zenodo_Wildfires_v1.3.0 into this cloned `incendios` folder, replacing README.md when asked.
+4. Then run:
+
+   git add .
+   git commit -m "Prepare Zenodo release v1.3.0"
+   git push origin main
+
+5. Check https://github.com/santigarciacc/incendios and confirm the files are visible.
+6. Do not create the GitHub release until the Zenodo account is connected to GitHub and the repository has been enabled in Zenodo.

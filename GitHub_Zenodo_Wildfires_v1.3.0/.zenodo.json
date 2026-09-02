@@ -1,0 +1,34 @@
+{
+  "title": "Data and code for forecasting annual counts of large wildfires in Spain",
+  "upload_type": "software",
+  "description": "Software, harmonised annual data, derived results and reproducibility code supporting a study of large-wildfire counts in Spain using ARIMA, ARIMAX and negative-binomial time-series models. Version 1.3 freezes all model fitting through 2025 and archives the prospectively observed 2026 holdout through 31 August 2026 (44 large wildfires; 264,656 ha affected) separately from the historical modelling dataset. Later 2026 European wildfire developments are intentionally not used to refit or select models in this release.",
+  "creators": [
+    {
+      "name": "García-Cremades, Santi",
+      "affiliation": "Miguel Hernández University of Elche"
+    },
+    {
+      "name": "López Espín, José Juan",
+      "affiliation": "Miguel Hernández University of Elche"
+    },
+    {
+      "name": "Cecilia Canales, José María",
+      "affiliation": "Universitat Politècnica de València"
+    }
+  ],
+  "keywords": [
+    "wildfire forecasting",
+    "ARIMAX",
+    "negative binomial",
+    "heatwave",
+    "forest management",
+    "Spain",
+    "prospective validation",
+    "2026 wildfire season"
+  ],
+  "license": "mit",
+  "version": "1.3.0",
+  "language": "eng",
+  "notes": "Version 1.3.0. Models are frozen through 2025. The 2026 provisional snapshots are prospective holdout observations only and are never used for model fitting or selection. Code is licensed MIT; original derived tables/documentation are CC BY 4.0; source datasets retain their original terms.",
+  "access_right": "open"
+}

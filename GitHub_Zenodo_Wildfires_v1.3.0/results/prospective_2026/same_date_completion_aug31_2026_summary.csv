@@ -1,0 +1,2 @@
+snapshot_date,provisional_large_wildfires,historical_years,historical_same_date_mean_count,median_final_to_snapshot_ratio,iqr_ratio_low,iqr_ratio_high,descriptive_median_completion_count,descriptive_iqr_completion_low,descriptive_iqr_completion_high,warning
+2026-08-31,44,2015-2024,17.8,1.1339285714285714,1.043048128342246,1.5576923076923077,49.89285714285714,45.89411764705882,68.53846153846153,Descriptive historical completion benchmark; not a model forecast.

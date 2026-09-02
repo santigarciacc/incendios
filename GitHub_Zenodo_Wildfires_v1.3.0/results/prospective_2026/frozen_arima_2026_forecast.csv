@@ -1,0 +1,2 @@
+forecast_origin,target_year,model,training_years,predicted_count,pi90_low,pi90_high,ar1_coefficient,ar1_p_value
+2025,2026,"ARIMA(1,0,0)",2005-2025,17.441684884876103,4.618009716795394,59.53669511754844,-0.12147272951594963,0.6621196402054911

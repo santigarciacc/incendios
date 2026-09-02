@@ -1,0 +1,9 @@
+response,exogenous,pearson_r
+count_gif,heatwave_days,0.6306326539375618
+count_gif,heatwave_events,0.6078394495718626
+count_gif,prevention_lag2,0.04001554508749627
+count_gif,total_investment_lag2,0.1746175762675192
+area_gif_ha,heatwave_days,0.7191849374358757
+area_gif_ha,heatwave_events,0.4940727755976806
+area_gif_ha,prevention_lag2,-0.0034276247586608635
+area_gif_ha,total_investment_lag2,0.13739448995220516
